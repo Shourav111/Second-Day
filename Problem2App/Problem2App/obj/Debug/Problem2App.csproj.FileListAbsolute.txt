@@ -1,0 +1,5 @@
+D:\Ha-Mim\Day_2\Problem2App\Problem2App\bin\Debug\Problem2App.exe.config
+D:\Ha-Mim\Day_2\Problem2App\Problem2App\bin\Debug\Problem2App.exe
+D:\Ha-Mim\Day_2\Problem2App\Problem2App\bin\Debug\Problem2App.pdb
+D:\Ha-Mim\Day_2\Problem2App\Problem2App\obj\Debug\Problem2App.exe
+D:\Ha-Mim\Day_2\Problem2App\Problem2App\obj\Debug\Problem2App.pdb

@@ -1,0 +1,6 @@
+c:\users\bcc\documents\visual studio 2013\Projects\largestprimefactorApp\largestprimefactorApp\bin\Debug\largestprimefactorApp.exe.config
+c:\users\bcc\documents\visual studio 2013\Projects\largestprimefactorApp\largestprimefactorApp\bin\Debug\largestprimefactorApp.exe
+c:\users\bcc\documents\visual studio 2013\Projects\largestprimefactorApp\largestprimefactorApp\bin\Debug\largestprimefactorApp.pdb
+c:\users\bcc\documents\visual studio 2013\Projects\largestprimefactorApp\largestprimefactorApp\obj\Debug\largestprimefactorApp.csprojResolveAssemblyReference.cache
+c:\users\bcc\documents\visual studio 2013\Projects\largestprimefactorApp\largestprimefactorApp\obj\Debug\largestprimefactorApp.exe
+c:\users\bcc\documents\visual studio 2013\Projects\largestprimefactorApp\largestprimefactorApp\obj\Debug\largestprimefactorApp.pdb
